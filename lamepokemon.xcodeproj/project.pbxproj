@@ -7,34 +7,34 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		ED0C066D267C7E0200F0EDBD /* eleanorApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED0C065A267C7E0000F0EDBD /* eleanorApp.swift */; };
-		ED0C066E267C7E0200F0EDBD /* eleanorApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED0C065A267C7E0000F0EDBD /* eleanorApp.swift */; };
-		ED0C066F267C7E0200F0EDBD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED0C065B267C7E0000F0EDBD /* ContentView.swift */; };
-		ED0C0670267C7E0200F0EDBD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED0C065B267C7E0000F0EDBD /* ContentView.swift */; };
-		ED0C0671267C7E0200F0EDBD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ED0C065C267C7E0100F0EDBD /* Assets.xcassets */; };
-		ED0C0672267C7E0200F0EDBD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ED0C065C267C7E0100F0EDBD /* Assets.xcassets */; };
+		EDED09D0267FC67F00673F81 /* lamepokemonApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDED09BD267FC67800673F81 /* lamepokemonApp.swift */; };
+		EDED09D1267FC67F00673F81 /* lamepokemonApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDED09BD267FC67800673F81 /* lamepokemonApp.swift */; };
+		EDED09D2267FC67F00673F81 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDED09BE267FC67800673F81 /* ContentView.swift */; };
+		EDED09D3267FC67F00673F81 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDED09BE267FC67800673F81 /* ContentView.swift */; };
+		EDED09D4267FC67F00673F81 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EDED09BF267FC67F00673F81 /* Assets.xcassets */; };
+		EDED09D5267FC67F00673F81 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EDED09BF267FC67F00673F81 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		ED0C065A267C7E0000F0EDBD /* eleanorApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = eleanorApp.swift; sourceTree = "<group>"; };
-		ED0C065B267C7E0000F0EDBD /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		ED0C065C267C7E0100F0EDBD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		ED0C0661267C7E0200F0EDBD /* eleanor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = eleanor.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		ED0C0664267C7E0200F0EDBD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		ED0C0669267C7E0200F0EDBD /* eleanor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = eleanor.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		ED0C066B267C7E0200F0EDBD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		ED0C066C267C7E0200F0EDBD /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
+		EDED09BD267FC67800673F81 /* lamepokemonApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lamepokemonApp.swift; sourceTree = "<group>"; };
+		EDED09BE267FC67800673F81 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		EDED09BF267FC67F00673F81 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		EDED09C4267FC67F00673F81 /* lamepokemon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = lamepokemon.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EDED09C7267FC67F00673F81 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EDED09CC267FC67F00673F81 /* lamepokemon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = lamepokemon.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EDED09CE267FC67F00673F81 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EDED09CF267FC67F00673F81 /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		ED0C065E267C7E0100F0EDBD /* Frameworks */ = {
+		EDED09C1267FC67F00673F81 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		ED0C0666267C7E0200F0EDBD /* Frameworks */ = {
+		EDED09C9267FC67F00673F81 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -44,48 +44,48 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		ED0C0654267C7E0000F0EDBD = {
+		EDED09B7267FC67700673F81 = {
 			isa = PBXGroup;
 			children = (
-				ED0C0659267C7E0000F0EDBD /* Shared */,
-				ED0C0663267C7E0200F0EDBD /* iOS */,
-				ED0C066A267C7E0200F0EDBD /* macOS */,
-				ED0C0662267C7E0200F0EDBD /* Products */,
+				EDED09BC267FC67700673F81 /* Shared */,
+				EDED09C6267FC67F00673F81 /* iOS */,
+				EDED09CD267FC67F00673F81 /* macOS */,
+				EDED09C5267FC67F00673F81 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		ED0C0659267C7E0000F0EDBD /* Shared */ = {
+		EDED09BC267FC67700673F81 /* Shared */ = {
 			isa = PBXGroup;
 			children = (
-				ED0C065A267C7E0000F0EDBD /* eleanorApp.swift */,
-				ED0C065B267C7E0000F0EDBD /* ContentView.swift */,
-				ED0C065C267C7E0100F0EDBD /* Assets.xcassets */,
+				EDED09BD267FC67800673F81 /* lamepokemonApp.swift */,
+				EDED09BE267FC67800673F81 /* ContentView.swift */,
+				EDED09BF267FC67F00673F81 /* Assets.xcassets */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
 		};
-		ED0C0662267C7E0200F0EDBD /* Products */ = {
+		EDED09C5267FC67F00673F81 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				ED0C0661267C7E0200F0EDBD /* eleanor.app */,
-				ED0C0669267C7E0200F0EDBD /* eleanor.app */,
+				EDED09C4267FC67F00673F81 /* lamepokemon.app */,
+				EDED09CC267FC67F00673F81 /* lamepokemon.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		ED0C0663267C7E0200F0EDBD /* iOS */ = {
+		EDED09C6267FC67F00673F81 /* iOS */ = {
 			isa = PBXGroup;
 			children = (
-				ED0C0664267C7E0200F0EDBD /* Info.plist */,
+				EDED09C7267FC67F00673F81 /* Info.plist */,
 			);
 			path = iOS;
 			sourceTree = "<group>";
 		};
-		ED0C066A267C7E0200F0EDBD /* macOS */ = {
+		EDED09CD267FC67F00673F81 /* macOS */ = {
 			isa = PBXGroup;
 			children = (
-				ED0C066B267C7E0200F0EDBD /* Info.plist */,
-				ED0C066C267C7E0200F0EDBD /* macOS.entitlements */,
+				EDED09CE267FC67F00673F81 /* Info.plist */,
+				EDED09CF267FC67F00673F81 /* macOS.entitlements */,
 			);
 			path = macOS;
 			sourceTree = "<group>";
@@ -93,58 +93,58 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		ED0C0660267C7E0100F0EDBD /* eleanor (iOS) */ = {
+		EDED09C3267FC67F00673F81 /* lamepokemon (iOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = ED0C0675267C7E0200F0EDBD /* Build configuration list for PBXNativeTarget "eleanor (iOS)" */;
+			buildConfigurationList = EDED09D8267FC67F00673F81 /* Build configuration list for PBXNativeTarget "lamepokemon (iOS)" */;
 			buildPhases = (
-				ED0C065D267C7E0100F0EDBD /* Sources */,
-				ED0C065E267C7E0100F0EDBD /* Frameworks */,
-				ED0C065F267C7E0100F0EDBD /* Resources */,
+				EDED09C0267FC67F00673F81 /* Sources */,
+				EDED09C1267FC67F00673F81 /* Frameworks */,
+				EDED09C2267FC67F00673F81 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "eleanor (iOS)";
-			productName = "eleanor (iOS)";
-			productReference = ED0C0661267C7E0200F0EDBD /* eleanor.app */;
+			name = "lamepokemon (iOS)";
+			productName = "lamepokemon (iOS)";
+			productReference = EDED09C4267FC67F00673F81 /* lamepokemon.app */;
 			productType = "com.apple.product-type.application";
 		};
-		ED0C0668267C7E0200F0EDBD /* eleanor (macOS) */ = {
+		EDED09CB267FC67F00673F81 /* lamepokemon (macOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = ED0C0678267C7E0200F0EDBD /* Build configuration list for PBXNativeTarget "eleanor (macOS)" */;
+			buildConfigurationList = EDED09DB267FC67F00673F81 /* Build configuration list for PBXNativeTarget "lamepokemon (macOS)" */;
 			buildPhases = (
-				ED0C0665267C7E0200F0EDBD /* Sources */,
-				ED0C0666267C7E0200F0EDBD /* Frameworks */,
-				ED0C0667267C7E0200F0EDBD /* Resources */,
+				EDED09C8267FC67F00673F81 /* Sources */,
+				EDED09C9267FC67F00673F81 /* Frameworks */,
+				EDED09CA267FC67F00673F81 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "eleanor (macOS)";
-			productName = "eleanor (macOS)";
-			productReference = ED0C0669267C7E0200F0EDBD /* eleanor.app */;
+			name = "lamepokemon (macOS)";
+			productName = "lamepokemon (macOS)";
+			productReference = EDED09CC267FC67F00673F81 /* lamepokemon.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		ED0C0655267C7E0000F0EDBD /* Project object */ = {
+		EDED09B8267FC67700673F81 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1250;
 				LastUpgradeCheck = 1250;
 				TargetAttributes = {
-					ED0C0660267C7E0100F0EDBD = {
+					EDED09C3267FC67F00673F81 = {
 						CreatedOnToolsVersion = 12.5;
 					};
-					ED0C0668267C7E0200F0EDBD = {
+					EDED09CB267FC67F00673F81 = {
 						CreatedOnToolsVersion = 12.5;
 					};
 				};
 			};
-			buildConfigurationList = ED0C0658267C7E0000F0EDBD /* Build configuration list for PBXProject "eleanor" */;
+			buildConfigurationList = EDED09BB267FC67700673F81 /* Build configuration list for PBXProject "lamepokemon" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -152,59 +152,59 @@
 				en,
 				Base,
 			);
-			mainGroup = ED0C0654267C7E0000F0EDBD;
-			productRefGroup = ED0C0662267C7E0200F0EDBD /* Products */;
+			mainGroup = EDED09B7267FC67700673F81;
+			productRefGroup = EDED09C5267FC67F00673F81 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				ED0C0660267C7E0100F0EDBD /* eleanor (iOS) */,
-				ED0C0668267C7E0200F0EDBD /* eleanor (macOS) */,
+				EDED09C3267FC67F00673F81 /* lamepokemon (iOS) */,
+				EDED09CB267FC67F00673F81 /* lamepokemon (macOS) */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		ED0C065F267C7E0100F0EDBD /* Resources */ = {
+		EDED09C2267FC67F00673F81 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ED0C0671267C7E0200F0EDBD /* Assets.xcassets in Resources */,
+				EDED09D4267FC67F00673F81 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		ED0C0667267C7E0200F0EDBD /* Resources */ = {
+		EDED09CA267FC67F00673F81 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ED0C0672267C7E0200F0EDBD /* Assets.xcassets in Resources */,
+				EDED09D5267FC67F00673F81 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		ED0C065D267C7E0100F0EDBD /* Sources */ = {
+		EDED09C0267FC67F00673F81 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ED0C066F267C7E0200F0EDBD /* ContentView.swift in Sources */,
-				ED0C066D267C7E0200F0EDBD /* eleanorApp.swift in Sources */,
+				EDED09D2267FC67F00673F81 /* ContentView.swift in Sources */,
+				EDED09D0267FC67F00673F81 /* lamepokemonApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		ED0C0665267C7E0200F0EDBD /* Sources */ = {
+		EDED09C8267FC67F00673F81 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ED0C0670267C7E0200F0EDBD /* ContentView.swift in Sources */,
-				ED0C066E267C7E0200F0EDBD /* eleanorApp.swift in Sources */,
+				EDED09D3267FC67F00673F81 /* ContentView.swift in Sources */,
+				EDED09D1267FC67F00673F81 /* lamepokemonApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		ED0C0673267C7E0200F0EDBD /* Debug */ = {
+		EDED09D6267FC67F00673F81 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -263,7 +263,7 @@
 			};
 			name = Debug;
 		};
-		ED0C0674267C7E0200F0EDBD /* Release */ = {
+		EDED09D7267FC67F00673F81 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -315,7 +315,7 @@
 			};
 			name = Release;
 		};
-		ED0C0676267C7E0200F0EDBD /* Debug */ = {
+		EDED09D9267FC67F00673F81 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -329,15 +329,15 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.jacksebastian.eleanor;
-				PRODUCT_NAME = eleanor;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jacksebastian.lamepokemon;
+				PRODUCT_NAME = lamepokemon;
 				SDKROOT = iphoneos;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		ED0C0677267C7E0200F0EDBD /* Release */ = {
+		EDED09DA267FC67F00673F81 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -351,8 +351,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.jacksebastian.eleanor;
-				PRODUCT_NAME = eleanor;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jacksebastian.lamepokemon;
+				PRODUCT_NAME = lamepokemon;
 				SDKROOT = iphoneos;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -360,7 +360,7 @@
 			};
 			name = Release;
 		};
-		ED0C0679267C7E0200F0EDBD /* Debug */ = {
+		EDED09DC267FC67F00673F81 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -369,6 +369,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_TEAM = S92J4H63M5;
+				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = macOS/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -376,14 +377,14 @@
 					"@executable_path/../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 11.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.jacksebastian.eleanor;
-				PRODUCT_NAME = eleanor;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jacksebastian.lamepokemon;
+				PRODUCT_NAME = lamepokemon;
 				SDKROOT = macosx;
 				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
-		ED0C067A267C7E0200F0EDBD /* Release */ = {
+		EDED09DD267FC67F00673F81 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -392,6 +393,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_TEAM = S92J4H63M5;
+				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = macOS/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -399,8 +401,8 @@
 					"@executable_path/../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 11.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.jacksebastian.eleanor;
-				PRODUCT_NAME = eleanor;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jacksebastian.lamepokemon;
+				PRODUCT_NAME = lamepokemon;
 				SDKROOT = macosx;
 				SWIFT_VERSION = 5.0;
 			};
@@ -409,34 +411,34 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		ED0C0658267C7E0000F0EDBD /* Build configuration list for PBXProject "eleanor" */ = {
+		EDED09BB267FC67700673F81 /* Build configuration list for PBXProject "lamepokemon" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				ED0C0673267C7E0200F0EDBD /* Debug */,
-				ED0C0674267C7E0200F0EDBD /* Release */,
+				EDED09D6267FC67F00673F81 /* Debug */,
+				EDED09D7267FC67F00673F81 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		ED0C0675267C7E0200F0EDBD /* Build configuration list for PBXNativeTarget "eleanor (iOS)" */ = {
+		EDED09D8267FC67F00673F81 /* Build configuration list for PBXNativeTarget "lamepokemon (iOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				ED0C0676267C7E0200F0EDBD /* Debug */,
-				ED0C0677267C7E0200F0EDBD /* Release */,
+				EDED09D9267FC67F00673F81 /* Debug */,
+				EDED09DA267FC67F00673F81 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		ED0C0678267C7E0200F0EDBD /* Build configuration list for PBXNativeTarget "eleanor (macOS)" */ = {
+		EDED09DB267FC67F00673F81 /* Build configuration list for PBXNativeTarget "lamepokemon (macOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				ED0C0679267C7E0200F0EDBD /* Debug */,
-				ED0C067A267C7E0200F0EDBD /* Release */,
+				EDED09DC267FC67F00673F81 /* Debug */,
+				EDED09DD267FC67F00673F81 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = ED0C0655267C7E0000F0EDBD /* Project object */;
+	rootObject = EDED09B8267FC67700673F81 /* Project object */;
 }

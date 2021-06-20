@@ -62,8 +62,8 @@ struct ContentView: View {
                 Spacer()
                 
                 Button(action: {
-                    playerRand = Int.random(in: 1...20)
-                    cpuRand = Int.random(in: 1...20)
+                    playerRand = Int.random(in: 1...36)
+                    cpuRand = Int.random(in: 1...36)
                     
                     pokemon1 = "card" + String(playerRand)
                     pokemon2 = "card" + String(cpuRand)
@@ -75,23 +75,23 @@ struct ContentView: View {
                         cpuScore += 1
                     }
                     
-                    if playerRand >= 1 && playerRand <= 7 {
+                    if playerRand >= 1 && playerRand <= 12 {
                         playerColor = Color.red
                     }
-                    if playerRand >= 8 && playerRand <= 14 {
+                    if playerRand >= 13 && playerRand <= 24 {
                         playerColor = Color.yellow
                     }
-                    if playerRand >= 15 && playerRand <= 20 {
+                    if playerRand >= 25 && playerRand <= 36 {
                         playerColor = Color.green
                     }
                     
-                    if cpuRand >= 1 && cpuRand <= 7 {
+                    if cpuRand >= 1 && cpuRand <= 12 {
                         cpuColor = Color.red
                     }
-                    if cpuRand >= 8 && cpuRand <= 14 {
+                    if cpuRand >= 13 && cpuRand <= 24 {
                         cpuColor = Color.yellow
                     }
-                    if cpuRand >= 15 && cpuRand <= 20 {
+                    if cpuRand >= 25 && cpuRand <= 36 {
                         cpuColor = Color.green
                     }
                     
